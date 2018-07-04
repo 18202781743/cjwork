@@ -1,0 +1,4 @@
+[submodule "cjwork/sub1"]
+	path = cjwork/sub1
+	url = https://github.com/18202781743/cjwork.git
+	branch = master
